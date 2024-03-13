@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3", "Q 3\Q3.csproj", "{D52
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4", "Q4\Q4.csproj", "{9549FE53-5039-4FE8-A64B-8782F61D2F76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5 Labsheet", "Q 5\Q5 Labsheet.csproj", "{B3D1452E-E53E-4967-A69E-1C2C65DA29F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5 code", "Q 5\Q5 code.csproj", "{B3D1452E-E53E-4967-A69E-1C2C65DA29F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
