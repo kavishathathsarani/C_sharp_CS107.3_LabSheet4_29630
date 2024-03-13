@@ -74,5 +74,43 @@ namespace Q4
             txtResult.Text = "";
             operation = "";
         }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            num1 = int.Parse(txtResult.Text);
+            txtResult.Text = "";
+            operation = "+";
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            num1 = int.Parse(txtResult.Text);
+            txtResult.Text = "";
+            operation = "-";
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            num1 = int.Parse(txtResult.Text);
+            txtResult.Text = "";
+            operation = "*";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            num1 = int.Parse(txtResult.Text);
+            txtResult.Text = "";
+            operation = "/";
+        }
+
+        private void txtResult_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
